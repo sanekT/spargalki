@@ -1,4 +1,4 @@
-1. В теге meta нужно прописать <meta name="viewport" content="width=device-width">
+﻿1. В теге meta нужно прописать <meta name="viewport" content="width=device-width">
 
 2. Медиа запросы начинаются так:
 	@media screen and (max-width: 700px){//при ширине экрана меньше 700px начинают применятся стили описанные в этом медиа запросе
@@ -6,3 +6,5 @@
 			property: value;
 		}
 	}
+
+3.
